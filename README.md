@@ -1,5 +1,5 @@
 # Data-Structures-And-Algorithms-in-Java
-This repository contains Important Concepts and Solved Questions Code Of DSA In JAVA.
+*This repository contains Important Concepts and Solved Questions Code Of DSA In JAVA.
 This also contains a collection of code implementations for various data structures and algorithms in Java. Each implementation is designed to be simple and easy to understand, making it a great resource for learning and practicing DSA concepts.
 
 ***Features
